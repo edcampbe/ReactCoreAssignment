@@ -854,11 +854,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tozenji\\Desktop\\Edward_Campbell_Assignment\\Project\\EsportBasicAPI\\EsportBasicAPI\\EsportBasicAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Tozenji\\Documents\\GitHub\\ReactCoreAssignment\\Project\\EsportBasicAPI\\EsportBasicAPI\\EsportBasicAPI.csproj",
       "projectName": "EsportBasicAPI",
-      "projectPath": "C:\\Users\\Tozenji\\Desktop\\Edward_Campbell_Assignment\\Project\\EsportBasicAPI\\EsportBasicAPI\\EsportBasicAPI.csproj",
+      "projectPath": "C:\\Users\\Tozenji\\Documents\\GitHub\\ReactCoreAssignment\\Project\\EsportBasicAPI\\EsportBasicAPI\\EsportBasicAPI.csproj",
       "packagesPath": "C:\\Users\\Tozenji\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tozenji\\Desktop\\Edward_Campbell_Assignment\\Project\\EsportBasicAPI\\EsportBasicAPI\\obj\\",
+      "outputPath": "C:\\Users\\Tozenji\\Documents\\GitHub\\ReactCoreAssignment\\Project\\EsportBasicAPI\\EsportBasicAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tozenji\\AppData\\Roaming\\NuGet\\NuGet.Config",
